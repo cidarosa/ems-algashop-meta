@@ -1,6 +1,6 @@
 [submodule "docs"]
 	path = docs
 	url = git@github.com:cidarosa/ems-algashop-docs.git
-[submodule "ordering"]
-	path = ordering
+[submodule "microservices/ordering"]
+	path = microservices/ordering
 	url = git@github.com:cidarosa/ems-algashop-ordering.git
